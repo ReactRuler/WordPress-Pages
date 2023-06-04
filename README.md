@@ -5,7 +5,7 @@
 # WordPress Pages Developed by Me
 This repository contains a collection of my WordPress projects. It serves as a showcase of some of the projects I have worked on throughout my career as a web developer.
 
-- [Project 1](./project1): [Brief project description]
+- [Enantis](./Pages/Enantis): Showcase of a high-performance website with a custom design, powered by WordPress and optimized for speed. Experience seamless browsing, easy content management, and integrated contact forms. Secure with SSL certificates.
 
 - [Project 2](./project2): [Brief project description]
 
