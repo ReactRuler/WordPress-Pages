@@ -5,11 +5,13 @@
 # WordPress Pages Developed by Me
 This repository contains a collection of my WordPress projects. It serves as a showcase of some of the projects I have worked on throughout my career as a web developer.
 
+- [UltraDigix](./Pages/UltraDigix): [UltraDigix is an advanced e-commerce website featuring a wide range of products and a focus on automation and user experience. With cutting-edge technologies and personalized features, it offers a seamless and convenient online shopping experience.]
+
 - [Enantis](./Pages/Enantis): Showcase of a high-performance website with a custom design, powered by WordPress and optimized for speed. Experience seamless browsing, easy content management, and integrated contact forms. Secure with SSL certificates.
 
-- [Project 2](./project2): [Brief project description]
+- [TeleTaxi](./Pages/TeleTaxi): [Welcome to the TeleTaxi WordPress page! This project showcases a dynamic and user-friendly website designed for a taxi service.]
 
-- [Project 3](./project3): [Brief project description]
+
 
 
 ## About
