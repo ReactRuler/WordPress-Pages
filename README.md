@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="https://imgur.com/TEt4N4l.png" alt="Logos">
+    <img src="https://i.imgur.com/sGmWKZ1.png" alt="Logos">
 </div>
+
 # WordPress Pages Developed by Me
 This repository contains a collection of my WordPress projects. It serves as a showcase of some of the projects I have worked on throughout my career as a web developer.
 
@@ -26,4 +27,6 @@ To explore any of the projects in this repository, navigate to the corresponding
 
 - `screenshot.png`: Image showcasing the project's appearance..
 
-## Contributing
+## Contact
+
+Feel free to contact me if you would like any more information about the projects or have any questions.
