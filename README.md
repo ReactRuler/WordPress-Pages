@@ -27,7 +27,7 @@ To explore any of the projects in this repository, navigate to the corresponding
 
 - `README.md`: Detailed information about the project, including its features and any additional notes.
 
-- `screenshot.png`: Image showcasing the project's appearance..
+- `screenshot.jpg`: Image showcasing the project's appearance..
 
 ## Contact
 
